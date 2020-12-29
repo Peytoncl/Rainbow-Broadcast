@@ -22,17 +22,19 @@ namespace Rainbow_Announce_EXILED_SCPSL.Commands
             if (arguments != null)
             {
                 response = "Alright!";
-                string text = string.Join(" ", arguments);
-                Map.Broadcast(1, "<color=red>" + text + "</color>");
-                Map.Broadcast(1, "<color=orange>" + text + "</color>");
-                Map.Broadcast(1, "<color=yellow>" + text + "</color>");
-                Map.Broadcast(1, "<color=blue>" + text + "</color>");
-                Map.Broadcast(1, "<color=purple>" + text + "</color>");
+                int firstArg = int.Parse(arguments.Array[1]) / 5;
+                ushort duration = ushort.Parse(firstArg.ToString());
+                string text = string.Join(" ", arguments.Array.Skip(2));
+                Map.Broadcast(duration, "<color=red>" + text + "</color>");
+                Map.Broadcast(duration, "<color=orange>" + text + "</color>");
+                Map.Broadcast(duration, "<color=yellow>" + text + "</color>");
+                Map.Broadcast(duration, "<color=blue>" + text + "</color>");
+                Map.Broadcast(duration, "<color=purple>" + text + "</color>");
                 return true;
             }
             else
             {
-                response = "Please have text to rbroadcast!";
+                response = "Format - (TIME) (TEXT)";
                 return false;
             }
         }

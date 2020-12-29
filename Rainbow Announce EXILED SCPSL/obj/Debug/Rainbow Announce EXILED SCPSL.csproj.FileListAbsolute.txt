@@ -18,3 +18,15 @@ C:\Users\Peyto\Desktop\Rainbow Announce EXILED SCPSL\obj\Debug\Rainbow Announce 
 C:\Users\Peyto\Desktop\Rainbow Announce EXILED SCPSL\obj\Debug\Rainbow Announce EXILED SCPSL.csproj.CopyComplete
 C:\Users\Peyto\Desktop\Rainbow Announce EXILED SCPSL\obj\Debug\Rainbow Announce EXILED SCPSL.dll
 C:\Users\Peyto\Desktop\Rainbow Announce EXILED SCPSL\obj\Debug\Rainbow Announce EXILED SCPSL.pdb
+C:\Users\Peyto\Documents\GitHub\Rainbow-Broadcast\Rainbow Announce EXILED SCPSL\bin\Debug\Rainbow Announce EXILED SCPSL.dll
+C:\Users\Peyto\Documents\GitHub\Rainbow-Broadcast\Rainbow Announce EXILED SCPSL\bin\Debug\Rainbow Announce EXILED SCPSL.pdb
+C:\Users\Peyto\Documents\GitHub\Rainbow-Broadcast\Rainbow Announce EXILED SCPSL\bin\Debug\System.Memory.dll
+C:\Users\Peyto\Documents\GitHub\Rainbow-Broadcast\Rainbow Announce EXILED SCPSL\bin\Debug\System.Buffers.dll
+C:\Users\Peyto\Documents\GitHub\Rainbow-Broadcast\Rainbow Announce EXILED SCPSL\bin\Debug\0Harmony.dll
+C:\Users\Peyto\Documents\GitHub\Rainbow-Broadcast\Rainbow Announce EXILED SCPSL\bin\Debug\YamlDotNet.dll
+C:\Users\Peyto\Documents\GitHub\Rainbow-Broadcast\Rainbow Announce EXILED SCPSL\bin\Debug\System.Numerics.Vectors.dll
+C:\Users\Peyto\Documents\GitHub\Rainbow-Broadcast\Rainbow Announce EXILED SCPSL\obj\Debug\Rainbow Announce EXILED SCPSL.csprojAssemblyReference.cache
+C:\Users\Peyto\Documents\GitHub\Rainbow-Broadcast\Rainbow Announce EXILED SCPSL\obj\Debug\Rainbow Announce EXILED SCPSL.csproj.CoreCompileInputs.cache
+C:\Users\Peyto\Documents\GitHub\Rainbow-Broadcast\Rainbow Announce EXILED SCPSL\obj\Debug\Rainbow Announce EXILED SCPSL.csproj.CopyComplete
+C:\Users\Peyto\Documents\GitHub\Rainbow-Broadcast\Rainbow Announce EXILED SCPSL\obj\Debug\Rainbow Announce EXILED SCPSL.dll
+C:\Users\Peyto\Documents\GitHub\Rainbow-Broadcast\Rainbow Announce EXILED SCPSL\obj\Debug\Rainbow Announce EXILED SCPSL.pdb
