@@ -1,0 +1,20 @@
+C:\Users\Peyto\Desktop\Rainbow Announce EXILED SCPSL\bin\Debug\Rainbow Announce EXILED SCPSL.dll
+C:\Users\Peyto\Desktop\Rainbow Announce EXILED SCPSL\bin\Debug\Rainbow Announce EXILED SCPSL.pdb
+C:\Users\Peyto\Desktop\Rainbow Announce EXILED SCPSL\bin\Debug\Assembly-CSharp.dll
+C:\Users\Peyto\Desktop\Rainbow Announce EXILED SCPSL\bin\Debug\CommandSystem.Core.dll
+C:\Users\Peyto\Desktop\Rainbow Announce EXILED SCPSL\bin\Debug\Exiled.API.dll
+C:\Users\Peyto\Desktop\Rainbow Announce EXILED SCPSL\bin\Debug\Exiled.Events.dll
+C:\Users\Peyto\Desktop\Rainbow Announce EXILED SCPSL\bin\Debug\Exiled.Loader.dll
+C:\Users\Peyto\Desktop\Rainbow Announce EXILED SCPSL\bin\Debug\Exiled.Permissions.dll
+C:\Users\Peyto\Desktop\Rainbow Announce EXILED SCPSL\bin\Debug\Exiled.Updater.dll
+C:\Users\Peyto\Desktop\Rainbow Announce EXILED SCPSL\bin\Debug\UnityEngine.CoreModule.dll
+C:\Users\Peyto\Desktop\Rainbow Announce EXILED SCPSL\bin\Debug\System.Memory.dll
+C:\Users\Peyto\Desktop\Rainbow Announce EXILED SCPSL\bin\Debug\System.Buffers.dll
+C:\Users\Peyto\Desktop\Rainbow Announce EXILED SCPSL\bin\Debug\0Harmony.dll
+C:\Users\Peyto\Desktop\Rainbow Announce EXILED SCPSL\bin\Debug\YamlDotNet.dll
+C:\Users\Peyto\Desktop\Rainbow Announce EXILED SCPSL\bin\Debug\System.Numerics.Vectors.dll
+C:\Users\Peyto\Desktop\Rainbow Announce EXILED SCPSL\obj\Debug\Rainbow Announce EXILED SCPSL.csprojAssemblyReference.cache
+C:\Users\Peyto\Desktop\Rainbow Announce EXILED SCPSL\obj\Debug\Rainbow Announce EXILED SCPSL.csproj.CoreCompileInputs.cache
+C:\Users\Peyto\Desktop\Rainbow Announce EXILED SCPSL\obj\Debug\Rainbow Announce EXILED SCPSL.csproj.CopyComplete
+C:\Users\Peyto\Desktop\Rainbow Announce EXILED SCPSL\obj\Debug\Rainbow Announce EXILED SCPSL.dll
+C:\Users\Peyto\Desktop\Rainbow Announce EXILED SCPSL\obj\Debug\Rainbow Announce EXILED SCPSL.pdb
