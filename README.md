@@ -1,6 +1,6 @@
 # Rainbow-Broadcast
-SCPSL EXILED - Will do a "/broadcast" but in rainbow text color. (Command "/rbroadcast (duration) (text)")
+Description: A very very very simple plugin that will run a /broadcast but with rainbow colors, one by one.
 
-Developed By: Peyton
+Usage:  /rbroadcast (duration) (text to be broadcasted)
 
-Discord: Peyton#5395
+Download: https://github.com/Peytoncl/Rainbow-Broadcast/releases
